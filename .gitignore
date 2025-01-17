@@ -13,3 +13,4 @@ Enunciados/*
 !src/**
 !bin/**
 !Enunciados/**
+/bin/
